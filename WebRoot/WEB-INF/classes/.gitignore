@@ -1,4 +1,4 @@
 /app.properties
-/com
-/config
+/com/
+/config/
 /log4j.properties
